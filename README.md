@@ -1,3 +1,4 @@
-# http-server-in-elixir
+# HTTP server from Scratch using Elixir
 
-There is no http-server-in-elixir at [Codecrafters](https://app.codecrafters.io/courses/http-server/) site, so I will use my own implementation there.
+## Docs
+- Robust documentation on the way for this. This will be a production-ish HTTP server that I am going to develop using Elixir. 
